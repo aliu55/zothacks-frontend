@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/zothacks-frontend/static/css/main.9eb656e2.chunk.css",
+    "main.js": "/zothacks-frontend/static/js/main.2b37ceba.chunk.js",
+    "main.js.map": "/zothacks-frontend/static/js/main.2b37ceba.chunk.js.map",
+    "runtime-main.js": "/zothacks-frontend/static/js/runtime-main.db8b604a.js",
+    "runtime-main.js.map": "/zothacks-frontend/static/js/runtime-main.db8b604a.js.map",
+    "static/css/2.5a2f7233.chunk.css": "/zothacks-frontend/static/css/2.5a2f7233.chunk.css",
+    "static/js/2.4fcf5742.chunk.js": "/zothacks-frontend/static/js/2.4fcf5742.chunk.js",
+    "static/js/2.4fcf5742.chunk.js.map": "/zothacks-frontend/static/js/2.4fcf5742.chunk.js.map",
+    "index.html": "/zothacks-frontend/index.html",
+    "precache-manifest.8d5cad4c780fb9eb8b4f7570a3a792d3.js": "/zothacks-frontend/precache-manifest.8d5cad4c780fb9eb8b4f7570a3a792d3.js",
+    "service-worker.js": "/zothacks-frontend/service-worker.js",
+    "static/css/2.5a2f7233.chunk.css.map": "/zothacks-frontend/static/css/2.5a2f7233.chunk.css.map",
+    "static/css/main.9eb656e2.chunk.css.map": "/zothacks-frontend/static/css/main.9eb656e2.chunk.css.map",
+    "static/js/2.4fcf5742.chunk.js.LICENSE.txt": "/zothacks-frontend/static/js/2.4fcf5742.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db8b604a.js",
+    "static/css/2.5a2f7233.chunk.css",
+    "static/js/2.4fcf5742.chunk.js",
+    "static/css/main.9eb656e2.chunk.css",
+    "static/js/main.2b37ceba.chunk.js"
+  ]
+}
